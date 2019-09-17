@@ -1,0 +1,9 @@
+\frametitle{Sampling method}
+
+According to the different sort of samples, sampling methods can be roughly classified into three classes:
+\begin{itemize}
+\item over-sampling
+\item under-sampling
+\item hybrid-sampling
+\end{itemize}
+

@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{zhang2019steganogan}
+K.~A. Zhang, A.~Cuesta-Infante, and K.~Veeramachaneni.
+\newblock Stegano{GAN}: Pushing the limits of image steganography.
+\newblock {\em arXiv preprint arXiv:1901.03892}, 2019.
+
+\bibitem{zhu2017unpaired}
+J.-Y. Zhu, T.~Park, P.~Isola, and A.~A. Efros.
+\newblock Unpaired image-to-image translation using cycle-consistent
+  adversarial networks.
+\newblock In {\em ICCV}, pages 2223--2232, 2017.
+
+\end{thebibliography}

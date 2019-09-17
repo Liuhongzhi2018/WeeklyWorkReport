@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{Goodfellow2014Generative}
+I.~J. Goodfellow, J.~Pougetabadie, M.~Mirza, B.~Xu, D.~Wardefarley, S.~Ozair,
+  A.~Courville, and Y.~Bengio.
+\newblock Generative adversarial networks.
+\newblock In {\em NIPS}, 2014.
+
+\bibitem{Tao18attngan}
+T.~Xu, P.~Zhang, Q.~Huang, H.~Zhang, Z.~Gan, X.~Huang, and X.~He.
+\newblock Attn{GAN}: Fine-grained text to image generation with attentional
+  generative adversarial networks.
+\newblock In {\em CVPR}, 2018.
+
+\end{thebibliography}
